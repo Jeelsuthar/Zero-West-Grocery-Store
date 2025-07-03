@@ -1,8 +1,8 @@
-This is my first project "Zero-West Grocery Store"
+This is our team first project "Zero-West Grocery Store"
 
 partner:-  
 
-1.  Khushal Thummar
+1.  Khushal Thummar(Team Leader)
 
 2.  Kachhadiya Jash
 
